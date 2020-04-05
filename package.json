@@ -11,6 +11,8 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "latest",
-    "lit-element": "latest"
+    "lit-element": "latest",
+    "polymer": "^0.5.0",
+    "serve": "^11.3.0"
   }
 }
