@@ -1,5 +1,5 @@
-import './app/get-start-lit-element';
- 
+import './app/corona-lit';
+
 window.addEventListener('load', () => {
     // Whatever
 });
